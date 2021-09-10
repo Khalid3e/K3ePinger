@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="K3e Pinger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/K3e_Pinger_jar</output-path>
+    <root id="archive" name="K3e Pinger.jar">
+      <element id="module-output" name="K3e Pinger" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/1.4/flatlaf-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
